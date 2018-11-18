@@ -1,0 +1,18 @@
+{
+    "codeintel_language_settings": {
+        "Python": {
+            "python": "E:\\Program\\Anaconda2\\python.exe",
+            "codeintel_scan_extra_dir": [
+                "E:\\Program\\Anaconda2\\DLLs",
+                "E:\\Program\\Anaconda2\\Lib",
+                "E:\\Program\\Anaconda2\\Lib\\site-packages",
+                "E:\\Program\\Anaconda2\\Lib\\idlelib",
+                "E:\\Program\\Anaconda2\\python36.zip",
+                "E:\\Program\\Anaconda2",
+                "E:\\Program\\Anaconda2\\Lib\\*",
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        },
+    }
+}
